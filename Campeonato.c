@@ -1,5 +1,4 @@
 // Programa para gerenciar um campeonato de futebol mata-mata;
-// Ingrid Castelo Gomes and Maria Claudiana Oliveira Cruz
 
 #include <stdio.h>
 #include <conio.h>
