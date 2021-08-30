@@ -1,3 +1,8 @@
+# Objetivo: Desenvolver um programa que contenha um menu que possibilitará o usuário realizar as seguintes opções:
+# 1. Somar dois números digitados pelo usuário
+# 2. Verificar se a velocidade (em Km/h) digitada pelo usuário resulta em multa ou não. Nesse caso, apenas velocidades acima de 80 Km/h geram multa.
+# 3. Calcular a soma de dez números digitados pelo usuário. O programa deverá permitir o usuário digitar os dez números desejados. Em seguida, o programa deve informar quanto deu a soma dos números digitados.
+# 4. Sair. Essa opção encerra o programa.
 
 # inicio Funcao ler numero
 
