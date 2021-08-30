@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*1. Deverão existir 5 tipos de pizza com seus preços relacionados
+2. Deverão existir 5 tipos de bebida  com seus preços relacionados
+3. Mostre o cardápio ao usuário
+
+4. O usuário poderá pedir uma ou nenhuma pizza
+5.  O usuário poderá pedir uma ou nenhuma bebida
+6. Mostre o valor do pedido do usuário em tela*/
+
 void
 imprimeopcao ()
 {
